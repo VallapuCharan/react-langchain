@@ -13,6 +13,8 @@ from callbacks import AgentCallbackHandler
 
 load_dotenv()
 
+# This logic will be later converted to function calling using lang chain instead of React.
+# Please checkout to function calling branch for the implementation.
 
 """
 REACT: Reasoning and Acting
